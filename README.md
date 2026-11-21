@@ -10,7 +10,7 @@ This repository hosts the extended working-paper version of the paper. A shorter
 
 ## Suggested citation
 
-Gonzalez-Eiras, Martín (2026). "Why Might the Old Want to Honor Sovereign Debt?" Extended working paper version, November 2026. Department of Economics, University of Bologna. Available at https://github.com/mgeiras/Sovereign_Debt
+Gonzalez-Eiras, Martín (2026). "Why Might the Old Want to Honor Sovereign Debt?" Extended working paper version, Department of Economics, University of Bologna. Available at https://github.com/mgeiras/Sovereign_Debt
 
 ## Contact
 
